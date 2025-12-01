@@ -80,8 +80,8 @@ Created and linked using **Group Policy Management Console (gpmc.msc)**:
 - **GPO Name**: `Disable Shutdown Ability`
 - **Linked to**: OU: IT Department
 - **Policy Configured**:
-  - `Computer Configuration` > `Administrative Templates` > Task Menu and Task Bar`System` > `Remove and prevent access to shutdown, restart,sleep and Hibernate commands` 
-- `Security Filtering` > `Find all` > `Rapheal.IT`
+  - `Computer Configuration` > `Administrative Templates` > `Task Menu and Task Bar System` > `Remove and prevent access to shutdown, restart,sleep and Hibernate commands` 
+  - `Security Filtering` > `Find all` > `Rapheal.IT`
 
   - Set **"Remove all access to shut down: Deny all access"** to **Enabled**
 
