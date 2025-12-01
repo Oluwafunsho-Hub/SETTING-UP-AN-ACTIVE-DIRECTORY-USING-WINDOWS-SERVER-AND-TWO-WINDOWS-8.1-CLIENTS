@@ -90,4 +90,4 @@ Result: Shut Down, Restart, Sleep, and Hibernate commands disabled for all users
 
 ## Screenshots
 
-- [Internet Protocol V4 Configuration](#)
+- [Linking Windows 8.1 to the server]([#](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Linking%20Windows%208.1%20to%20the%20server.png))
