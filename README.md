@@ -68,8 +68,10 @@ DiscernxTech.org
 
 ├── OU: HR Department
 │   └── Users: Derrick.HR
+```
 
 ---
+
 
 ## Group Policy (GPO)
 
