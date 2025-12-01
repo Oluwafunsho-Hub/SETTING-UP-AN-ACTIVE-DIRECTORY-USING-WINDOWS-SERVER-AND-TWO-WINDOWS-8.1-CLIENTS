@@ -87,3 +87,7 @@ Created and linked using **Group Policy Management Console (gpmc.msc)**:
 
 Result: Shut Down, Restart, Sleep, and Hibernate commands disabled for all users in the **IT OU**.
 ---
+
+## Screenshots
+
+- [Internet Protocol V4 Configuration](#)
