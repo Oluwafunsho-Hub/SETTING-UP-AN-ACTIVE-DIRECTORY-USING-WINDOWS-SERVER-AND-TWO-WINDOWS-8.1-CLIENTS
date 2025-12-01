@@ -89,7 +89,7 @@ Result: Shut Down, Restart, Sleep, and Hibernate commands disabled for all users
 
 ## Screenshots
 
-- [Internet Protocol V4 Configuration](https://github.com/saheed-tech/A-small-Active-Directory-IAM-lab-using-Windows-Server-and-two-Windows-8.1-clients/blob/main/Screenshots/Intenet_Protocol_V4_.PNG)
+- [Linking Window 8.1 to domain](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Linking%20Windows%208.1%20to%20the%20server.png)
 - [Seedorf Domain Setup](https://github.com/saheed-tech/A-small-Active-Directory-IAM-lab-using-Windows-Server-and-two-Windows-8.1-clients/blob/main/Screenshots/Seedorf_Domain.PNG)
 - [Seedorf Domain Activation Page](https://github.com/saheed-tech/A-small-Active-Directory-IAM-lab-using-Windows-Server-and-two-Windows-8.1-clients/blob/main/Screenshots/Seedorf_Domain_Activation_Page.PNG)
 - [Creation of OU](https://github.com/saheed-tech/A-small-Active-Directory-IAM-lab-using-Windows-Server-and-two-Windows-8.1-clients/blob/main/Screenshots/Creation_of_OU.PNG)
