@@ -111,6 +111,16 @@ Result: Shut Down, Restart, Sleep, and Hibernate commands disabled for all users
 
 ---
 
+## Key Takeaways
+
+- Gained practical experience with Windows Server roles and domain setup
+- Implemented centralized access control using Group Policy
+- Learned how to structure users and departments with OUs
+- Applied IAM concepts in a real-world simulated environment
+
+---
+
+
 ## Author
 
 **Oluwafunsho J. Ogunyinka**  
