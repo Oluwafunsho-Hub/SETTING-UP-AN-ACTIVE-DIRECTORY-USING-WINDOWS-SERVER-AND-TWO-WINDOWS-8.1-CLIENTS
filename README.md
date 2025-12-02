@@ -111,4 +111,12 @@ Result: Shut Down, Restart, Sleep, and Hibernate commands disabled for all users
 
 ---
 
+## Author
+
+**Oluwafunsho J. Ogunyinka**  
+Cybersecurity Analyst  
+
+---
+
+
   
