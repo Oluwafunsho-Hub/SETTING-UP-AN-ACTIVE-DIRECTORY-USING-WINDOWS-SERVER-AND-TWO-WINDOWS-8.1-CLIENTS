@@ -96,6 +96,18 @@ Result: Shut Down, Restart, Sleep, and Hibernate commands disabled for all users
 - [Deployment Configuration](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Deployment%20Configuration.png)
 - [Domain Activation](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Discernxtech.org%20domain%20activation.png)
 - [Network Configuration](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Network%20configuration.png)
+- [Linking Window 8.1 to domain](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Linking%20Windows%208.1%20to%20the%20server.png)
+- [Assigning Policy To A User](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Policy%20Assigned%20To%20A%20User.png)
+- [Viewing GPO In The Domain](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Viewing%20GPO%20In%20The%20Domain.png)
+- [Linking GPO To A Domain](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Linking%20GPO%20To%20A%20Domain.png)
+- [Group Policy Management](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Group%20Policy%20Management%20.png)
+- [GPO In The Domain](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/GPO%20in%20the%20Domain.png)
+- [Creation Of GPO](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Creation%20Of%20GPO.png)
+- [Creating And Enabling A Policy](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Creating%20and%20Enabling%20a%20Policy..png)
+- [Creating And Enabling A policy On A User](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Creating%20and%20Enabling%20a%20Policy%20on%20Users.png)
+- [Assigning GPO To A User](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Assigning%20GPO%20To%20A%20User.png)
+- [Shutdown Button Removed](https://github.com/Oluwafunsho-Hub/SETTING-UP-AN-ACTIVE-DIRECTORY-USING-WINDOWS-SERVER-AND-TWO-WINDOWS-8.1-CLIENTS/blob/main/Screenshots/Shutdown%20Button%20Removed.png)
+  
 
 ---
 
